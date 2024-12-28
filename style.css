@@ -180,9 +180,10 @@ a:hover , .tit:hover ,#nh:hover{
     word-wrap: normal;
 }
 .p2_h1{
-    font-weight: 550;
+    font-weight: 600;
     font-size: 30px;
     margin-bottom: 15px;
+    /* color: #B5B3BC; */
 }
 .b_p1{
     color: #4f5153;
@@ -1100,7 +1101,7 @@ footer{
         justify-content: flex-end;
         flex-direction: column;
         position: relative;
-        top: 200px;
+        top: 160px;
     }
     .hireme{
         transition: 0.3s;
