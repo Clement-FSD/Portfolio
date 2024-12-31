@@ -2013,7 +2013,7 @@ nav ul li{
         width: 150%;
         position: relative;
         text-align: center;
-        left: 65px;
+        left: 45px;
     }
     .p5_d2_l1 p{
         position: relative;
@@ -2029,6 +2029,8 @@ nav ul li{
         padding: 5px;
         font-size: 19px;
         position: relative;
+        text-align: center;
+        left: -20px;
     }
     #i_l{
         position: relative;
@@ -2080,7 +2082,7 @@ nav ul li{
         padding: 20px 0px;
         position: relative;
         top: 10px;
-        left: 130px;
+        left: 110px;
     }
     .p5_d2_l_2 i{
         position: relative;
@@ -2101,6 +2103,12 @@ nav ul li{
     }
     #p5_d2_i:hover{
         color: red;
+    }
+    .p5_5{
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        /* text-align: center; */
     }
     footer{
         height: 10vh;
